@@ -33,14 +33,7 @@ CORS(app)
 
 # firebase config
 config = {
-    "apiKey": "AIzaSyBC6ptJ6KWbFEujealNhTXcvfOQeOHU1Y8",
-    "authDomain": "angularflask191215.firebaseapp.com",
-    "databaseURL": "https://angularflask191215.firebaseio.com",
-    "projectId": "angularflask191215",
-    "storageBucket": "angularflask191215.appspot.com",
-    "messagingSenderId": "1025335417126",
-    "appId": "1:1025335417126:web:060febb1cd2c56f4ca09e7",
-    "serviceAccount": "./keyfile.json"
+    
 }
 # serviceAccount는 해당 폴더에 firebase가 접근 및 수정하기 위해 필요.
 
